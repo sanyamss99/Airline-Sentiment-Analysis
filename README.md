@@ -1,2 +1,2 @@
 # Airline-Sentiment-Analysis
-Analyzing sentiment of airline review tweets , using spacy and keras to preprocess data , and trying single-layer and multi-layer RNN-LSTM in tensorflow keras , getting a best accuracy of 76.5%.
+Analyzing sentiment of airline review tweets , using spacy and keras to preprocess data , and trying single-layer and multi-layer RNN-LSTM in tensorflow keras , getting a best accuracy of 81.755%.
